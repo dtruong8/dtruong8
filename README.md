@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dtruong8
+- 👋 Hi, I’m Dean
 - 👀 I’m interested in big data, machine learning, and distributed systems
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/dtruong7/)
 
 <!---
 dtruong8/dtruong8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
