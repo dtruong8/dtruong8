@@ -1,5 +1,5 @@
 Hello World 🌍👋
-I'm a backend developer working in Los Angeles, USA.
+<br />I'm a backend developer working in Los Angeles, USA.
 
 Bio
 - 👋 Hi, I’m Dean!
