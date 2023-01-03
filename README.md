@@ -1,5 +1,9 @@
+Hello World 🌍👋
+I'm a backend developer working in Los Angeles, USA.
+
+Bio
 - 👋 Hi, I’m Dean!
-- 👨🏻‍💻 I am a software engineer.
+- 👨🏻‍💻 I am a coder working in the public sector.
 - 👀 I’m interested in big data, machine learning, and distributive systems.
 - 🌱 I’m currently learning data science at USC ✌️ and mastering the golang programming language.
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/dtruong7/).
