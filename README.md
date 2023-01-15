@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 🌍👋, I'm Dean Truong</h1> 
+<h1 align="center">Hello 🌍, I'm Dean Truong</h1> 
 
 ![profile count](https://komarev.com/ghpvc/?username=dtruong8&color=red)
 
