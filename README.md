@@ -25,6 +25,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 
 ![Dean's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtruong8&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtruong8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫  How to reach me
 <a href="https://www.linkedin.com/in/dtruong7"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
