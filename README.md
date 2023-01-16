@@ -23,11 +23,7 @@
 <br /> 
 
 ## 📊  Stats
-<div style="display: flex; flex-direction: row; flex-wrap:wrap;  gap:10px;">
- <img class="img" height=200px src="https://github-readme-stats.vercel.app/api?username=dtruong8&show_icons=true" />
- <img class="img" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruong8&layout=compact" />
-</div>
-<br /> 
+![Dean's Stats](https://github-readme-stats.vercel.app/api?username=dtruong8&show_icons=true)
 
 ## 📫  How to reach me
 <a href="https://www.linkedin.com/in/dtruong7"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
