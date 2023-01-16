@@ -4,14 +4,14 @@
     <a href="mailto:deantruo@usc.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 </div>  
 
-## 🛠 About me
+## 👨🏻‍💻&nbsp; About me
 ☀️ &nbsp; I'm a software developer working in Los Angeles, CA. <br />
 🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems. <br />
 🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science. <br />
 💻 &nbsp; I'm currently working on building microservice SaaS products small businesses. <br />
 
 
-## 🛠 Tech Stack
+## 🛠&nbsp;Tech Stack
 ![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=for-the-badge&logo=c-sharp)&nbsp;
@@ -26,11 +26,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazon-aws)&nbsp;
 <br /> 
 
-## 📊  Stats
+## 📊&nbsp; Stats
 ![Dean's Stats](https://github-readme-stats.vercel.app/api?username=dtruong8&show_icons=true)
-
-
-
 
 ![footer](https://raw.githubusercontent.com/dtruong8/dtruong8/main/images/bottom_header.svg)
 
