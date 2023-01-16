@@ -5,8 +5,8 @@
 </div>  
 
 ## 👨🏻‍💻&nbsp; About me
-☀️ &nbsp; I'm a software developer working in Los Angeles, CA. <br />
-🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems. <br />
+☀️ &nbsp; I'm a software developer based in Los Angeles, CA. <br />
+🎓 &nbsp; I graduated with an M.S. in Computer Science, focused in distributive systems. <br />
 🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science. <br />
 💻 &nbsp; I'm currently working on building microservice SaaS products small businesses. <br />
 
