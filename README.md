@@ -24,9 +24,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" height=200px style="margin:5px"src="https://github-readme-stats.vercel.app/api?username=dtruong8&show_icons=true" />
- <img class="img" height=200px style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruong8&layout=compact" />
+<div style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content:space-between">
+ <img class="img" height=200px src="https://github-readme-stats.vercel.app/api?username=dtruong8&show_icons=true" />
+ <img class="img" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruong8&layout=compact" />
 </div>
 
 ## 📫  How to reach me
