@@ -1,11 +1,10 @@
 <h1 align="center">Hello 🌍, I'm Dean Truong</h1> 
 
-<ul style="list-style: none;">
- <li>☀️ &nbsp; I'm a software developer working in Los Angeles, CA.<br /> </li>
- <li>🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems.</li>
- <li>🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science.</li>
- <li>💻 &nbsp; I'm currently working on building microservice SaaS products small businesses.</li> 
-</ul>
+☀️ &nbsp; I'm a software developer working in Los Angeles, CA. <br />
+🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems. <br />
+🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science. <br />
+💻 &nbsp; I'm currently working on building microservice SaaS products small businesses. <br />
+
 
 ## 🛠 Tech Stack
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
@@ -23,11 +22,7 @@
 <br /> 
 
 ## 📊  Stats
-<div style="display: flex; flex-direction: row; flex-wrap:wrap;  gap:10px;">
- <img class="img" height=200px src="https://github-readme-stats.vercel.app/api?username=dtruong8&show_icons=true" />
- <img class="img" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruong8&layout=compact" />
-</div>
-<br /> 
+![Dean's Stats](https://github-readme-stats.vercel.app/api?username=dtruong8&show_icons=true)
 
 ## 📫  How to reach me
 <a href="https://www.linkedin.com/in/dtruong7"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
