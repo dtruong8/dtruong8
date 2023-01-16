@@ -1,12 +1,14 @@
 <h1 align="center">Hello 🌍, I'm Dean Truong</h1> 
 
-![profile count](https://komarev.com/ghpvc/?username=dtruong8&color=red)
+<p align="center">
+ <img src="https://media.giphy.com/media/iiJ870TcI3PZKxatzS/giphy.gif" width="75%" height="250" alt="Pixel Art 8Bit GIF by pixeljeff"></img>
+</p>
 
-## 👨🏻‍💻 About me
- ☀️ &nbsp; I'm a software developer working in Los Angeles, CA. \
- 🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems. \
-🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science. \
-💻 &nbsp;  I'm currently working on building microservice SaaS products small businesses.
+☀️ &nbsp; I'm a software developer working in Los Angeles, CA.<br /> 
+🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems.<br />
+🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science.<br /> 
+💻 &nbsp; I'm currently working on building microservice SaaS products small businesses.<br /> 
+
 
 ## 🛠 Tech Stack
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
@@ -21,7 +23,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-
 
 ## 📫  How to reach me
 <a href="https://www.linkedin.com/in/dtruong7"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
