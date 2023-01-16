@@ -1,9 +1,9 @@
 <h1 align="center">Hello 🌍, I'm Dean Truong</h1> 
 
-☀️ &nbsp; I'm a software developer working in Los Angeles, CA.
-🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems.
-🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science.
-💻 &nbsp; I'm currently working on building microservice SaaS products small businesses.
+☀️ &nbsp; I'm a software developer working in Los Angeles, CA. <br />
+🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems. <br />
+🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science. <br />
+💻 &nbsp; I'm currently working on building microservice SaaS products small businesses. <br />
 
 
 ## 🛠 Tech Stack
