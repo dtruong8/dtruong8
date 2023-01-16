@@ -1,12 +1,14 @@
 <h1 align="center">Hello 🌍, I'm Dean Truong</h1> 
 
-![profile count](https://komarev.com/ghpvc/?username=dtruong8&color=red)
+<p align="center">
+ <img src="https://media.giphy.com/media/iiJ870TcI3PZKxatzS/giphy.gif" width="75%" height="250" alt="Pixel Art 8Bit GIF by pixeljeff"></img>
+</p>
 
-## 👨🏻‍💻 About me
- ☀️ &nbsp; I'm a software developer working in Los Angeles, CA. \
- 🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems. \
-🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science. \
-💻 &nbsp;  I'm currently working on building microservice SaaS products small businesses.
+☀️ &nbsp; I'm a software developer working in Los Angeles, CA.<br /> 
+🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems.<br />
+🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science.<br /> 
+💻 &nbsp; I'm currently working on building microservice SaaS products small businesses.<br /> 
+
 
 ## 🛠 Tech Stack
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
