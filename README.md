@@ -1,11 +1,10 @@
 <h1 align="center">Hello 🌍, I'm Dean Truong</h1> 
 
-<ul style="list-style: none;">
- <li>☀️ &nbsp; I'm a software developer working in Los Angeles, CA.<br /> </li>
- <li>🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems.</li>
- <li>🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science.</li>
- <li>💻 &nbsp; I'm currently working on building microservice SaaS products small businesses.</li> 
-</ul>
+☀️ &nbsp; I'm a software developer working in Los Angeles, CA.
+🎓 &nbsp; I graduated with an M.S. in Computer Science with a focus in distributive systems.
+🌱 &nbsp; I’m currently an MBA candidate at University of Southern California learning to improve operations through data science.
+💻 &nbsp; I'm currently working on building microservice SaaS products small businesses.
+
 
 ## 🛠 Tech Stack
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
