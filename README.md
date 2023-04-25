@@ -7,7 +7,7 @@
 ## 👨🏻‍💻&nbsp; About me
 ☀️ &nbsp; I'm a software developer based in Los Angeles, CA. <br />
 🎓 &nbsp; I graduated with an M.S. in Computer Science, focused in distributive systems. <br />
-🌱 &nbsp; I’m currently learning data science & operations at University of Southern California Marshall School of Business <br />
+🌱 &nbsp; I’m currently learning data science & operations at University of Southern California <br />
 💻 &nbsp; I'm currently working on building microservice SaaS products small businesses. <br />
 
 
