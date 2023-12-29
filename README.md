@@ -6,9 +6,9 @@
 
 ## 👨🏻‍💻&nbsp; About me
 ☀️ &nbsp; I'm a software developer based in Los Angeles, CA. <br />
-🎓 &nbsp; I graduated with an M.S. in Computer Science, focused in distributive systems. <br />
-🌱 &nbsp; I’m learning data science & operations at University of Southern California <br />
-💻 &nbsp; I'm working on building microservice SaaS products small businesses. <br />
+🎓 &nbsp; I graduated with an MSCS and MBA, with a focus in distributive systems and data science. <br />
+🌱 &nbsp; I’m currently learning digital business models.<br />
+💻 &nbsp; My New Year's resolution is to build 12 products by the EOY. <br />
 
 
 ## 🛠&nbsp;Tech Stack
