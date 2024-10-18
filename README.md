@@ -8,7 +8,7 @@
 ☀️ &nbsp; I'm a software developer based in Los Angeles, CA. <br />
 🎓 &nbsp; I graduated with an MSCS and MBA, with a focus in distributive systems and data science. <br />
 🌱 &nbsp; I’m currently learning digital business models.<br />
-💻 &nbsp; My New Year's resolution is to build 12 products by the EOY. <br />
+💻 &nbsp; My New Year resolves to build 12 products by the EOY. <br />
 
 
 ## 🛠&nbsp;Tech Stack
